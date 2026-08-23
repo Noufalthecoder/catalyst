@@ -1,0 +1,8 @@
+{
+  "url": "https://www.timbertech.com/products/agb15516wt",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: agb15516wt</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T09:49:20Z",
+  "content_hash": "29ebd665262c797b7d2ec6c6ac8288df",
+  "extraction_status": "SUCCESS"
+}

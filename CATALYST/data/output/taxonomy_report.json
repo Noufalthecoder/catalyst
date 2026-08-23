@@ -1,0 +1,1736 @@
+{
+  "total_products": 1000,
+  "taxonomy_assigned": 592,
+  "taxonomy_ambiguous": 0,
+  "taxonomy_unknown": 408,
+  "product_type_detected": 671,
+  "product_family_detected": 584,
+  "attribute_schemas_generated": 1000,
+  "attribute_conflicts": 1,
+  "duplicate_pairs_reviewed": 190,
+  "likely_duplicates": 29,
+  "exact_duplicates": 1,
+  "likely_variants": 160,
+  "unrelated_pairs": 0,
+  "classification_confidence_distribution": {
+    "1.0": 0,
+    "0.7 - 0.9": 592,
+    "0.4 - 0.6": 0,
+    "0.1 - 0.3": 0,
+    "0.0": 408
+  },
+  "parsing_failures": 0,
+  "failures_list": [],
+  "duplicate_reviews": [
+    {
+      "product_a_idx": 1,
+      "product_b_idx": 2,
+      "raw_mpn_a": "3MABR-7100075678",
+      "raw_mpn_b": "3MABR-7100045865",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 1,
+      "product_b_idx": 3,
+      "raw_mpn_a": "3MABR-7100075678",
+      "raw_mpn_b": "3MABR-7100048736",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 1,
+      "product_b_idx": 4,
+      "raw_mpn_a": "3MABR-7100075678",
+      "raw_mpn_b": "3MABR-7100075690",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 1,
+      "product_b_idx": 5,
+      "raw_mpn_a": "3MABR-7100075678",
+      "raw_mpn_b": "3MABR-7100075692",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 1,
+      "product_b_idx": 6,
+      "raw_mpn_a": "3MABR-7100075678",
+      "raw_mpn_b": "3MABR-7100145365",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 9,
+      "product_b_idx": 10,
+      "raw_mpn_a": "9A-570-240",
+      "raw_mpn_b": "9A-570-320",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 22,
+      "product_b_idx": 25,
+      "raw_mpn_a": "49-94-0048",
+      "raw_mpn_b": "49-94-0063",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 24,
+      "product_b_idx": 26,
+      "raw_mpn_a": "49-94-0058",
+      "raw_mpn_b": "49-94-0068",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 23,
+      "product_b_idx": 27,
+      "raw_mpn_a": "49-94-0053",
+      "raw_mpn_b": "49-94-0073",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 30,
+      "product_b_idx": 31,
+      "raw_mpn_a": "49-94-0117",
+      "raw_mpn_b": "49-94-0123",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 16,
+      "product_b_idx": 32,
+      "raw_mpn_a": "49-94-0013",
+      "raw_mpn_b": "49-94-0023",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 31,
+      "product_b_idx": 33,
+      "raw_mpn_a": "49-94-0123",
+      "raw_mpn_b": "49-94-0121",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 30,
+      "product_b_idx": 34,
+      "raw_mpn_a": "49-94-0117",
+      "raw_mpn_b": "49-94-0127",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 39,
+      "product_b_idx": 40,
+      "raw_mpn_a": "49-94-0803",
+      "raw_mpn_b": "49-94-0903",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 52,
+      "product_b_idx": 55,
+      "raw_mpn_a": "49-94-0523",
+      "raw_mpn_b": "49-94-0513",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 52,
+      "product_b_idx": 56,
+      "raw_mpn_a": "49-94-0523",
+      "raw_mpn_b": "49-94-0533",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 80,
+      "product_b_idx": 82,
+      "raw_mpn_a": "DR5004WG",
+      "raw_mpn_b": "DR7004WG",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 80,
+      "product_b_idx": 84,
+      "raw_mpn_a": "DR5004WG",
+      "raw_mpn_b": "DC5004WG",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 90,
+      "product_b_idx": 92,
+      "raw_mpn_a": "TR7006WN",
+      "raw_mpn_b": "TR5006WN",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 99,
+      "product_b_idx": 100,
+      "raw_mpn_a": "543302126",
+      "raw_mpn_b": "543302146",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 101,
+      "product_b_idx": 102,
+      "raw_mpn_a": "73019603",
+      "raw_mpn_b": "73019652",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 101,
+      "product_b_idx": 103,
+      "raw_mpn_a": "73019603",
+      "raw_mpn_b": "73019517",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 104,
+      "product_b_idx": 105,
+      "raw_mpn_a": "73019602",
+      "raw_mpn_b": "73019651",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (98%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 103,
+      "product_b_idx": 106,
+      "raw_mpn_a": "73019517",
+      "raw_mpn_b": "73019516",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (95%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 107,
+      "product_b_idx": 108,
+      "raw_mpn_a": "543300256",
+      "raw_mpn_b": "543300276",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 111,
+      "product_b_idx": 112,
+      "raw_mpn_a": "543340126",
+      "raw_mpn_b": "543340127",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 111,
+      "product_b_idx": 113,
+      "raw_mpn_a": "543340126",
+      "raw_mpn_b": "543340146",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 111,
+      "product_b_idx": 114,
+      "raw_mpn_a": "543340126",
+      "raw_mpn_b": "543340147",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 115,
+      "product_b_idx": 116,
+      "raw_mpn_a": "ADB15516CS",
+      "raw_mpn_b": "ADB15520CS",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 117,
+      "product_b_idx": 118,
+      "raw_mpn_a": "ADB15516EW",
+      "raw_mpn_b": "ADB15520EW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 119,
+      "product_b_idx": 120,
+      "raw_mpn_a": "ADB15516MH",
+      "raw_mpn_b": "ADB15520MH",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 121,
+      "product_b_idx": 122,
+      "raw_mpn_a": "ADB15516WT",
+      "raw_mpn_b": "ADB15520WT",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 123,
+      "product_b_idx": 124,
+      "raw_mpn_a": "AGB15512CS",
+      "raw_mpn_b": "AGB15516CS",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 123,
+      "product_b_idx": 125,
+      "raw_mpn_a": "AGB15512CS",
+      "raw_mpn_b": "AGB15520CS",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 126,
+      "product_b_idx": 127,
+      "raw_mpn_a": "AGB15512EW",
+      "raw_mpn_b": "AGB15516EW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 126,
+      "product_b_idx": 128,
+      "raw_mpn_a": "AGB15512EW",
+      "raw_mpn_b": "AGB15520EW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 129,
+      "product_b_idx": 130,
+      "raw_mpn_a": "AGB15512MH",
+      "raw_mpn_b": "AGB15516MH",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 129,
+      "product_b_idx": 131,
+      "raw_mpn_a": "AGB15512MH",
+      "raw_mpn_b": "AGB15520MH",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 132,
+      "product_b_idx": 133,
+      "raw_mpn_a": "AGB15512WT",
+      "raw_mpn_b": "AGB15516WT",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 132,
+      "product_b_idx": 134,
+      "raw_mpn_a": "AGB15512WT",
+      "raw_mpn_b": "AGB15520WT",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 135,
+      "product_b_idx": 136,
+      "raw_mpn_a": "ADB15516AW",
+      "raw_mpn_b": "ADB15520AW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 137,
+      "product_b_idx": 138,
+      "raw_mpn_a": "ADB15516CG",
+      "raw_mpn_b": "ADB15520CG",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 139,
+      "product_b_idx": 140,
+      "raw_mpn_a": "ADB15516FW",
+      "raw_mpn_b": "ADB15520FW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 141,
+      "product_b_idx": 142,
+      "raw_mpn_a": "AGB15512AW",
+      "raw_mpn_b": "AGB15516AW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 141,
+      "product_b_idx": 143,
+      "raw_mpn_a": "AGB15512AW",
+      "raw_mpn_b": "AGB15520AW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 144,
+      "product_b_idx": 145,
+      "raw_mpn_a": "AGB15512CG",
+      "raw_mpn_b": "AGB15516CG",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 144,
+      "product_b_idx": 146,
+      "raw_mpn_a": "AGB15512CG",
+      "raw_mpn_b": "AGB15520CG",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 147,
+      "product_b_idx": 148,
+      "raw_mpn_a": "AGB15512FW",
+      "raw_mpn_b": "AGB15516FW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 147,
+      "product_b_idx": 149,
+      "raw_mpn_a": "AGB15512FW",
+      "raw_mpn_b": "AGB15520FW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 150,
+      "product_b_idx": 151,
+      "raw_mpn_a": "ADCB15516BS",
+      "raw_mpn_b": "ADCB15520BS",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 152,
+      "product_b_idx": 153,
+      "raw_mpn_a": "ADCB15516SG",
+      "raw_mpn_b": "ADCB15520SG",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 154,
+      "product_b_idx": 155,
+      "raw_mpn_a": "AGB15512BS",
+      "raw_mpn_b": "AGB15516BS",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 154,
+      "product_b_idx": 156,
+      "raw_mpn_a": "AGB15512BS",
+      "raw_mpn_b": "AGB15520BS",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 157,
+      "product_b_idx": 158,
+      "raw_mpn_a": "AGB15512SG",
+      "raw_mpn_b": "AGB15516SG",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 157,
+      "product_b_idx": 159,
+      "raw_mpn_a": "AGB15512SG",
+      "raw_mpn_b": "AGB15520SG",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 160,
+      "product_b_idx": 161,
+      "raw_mpn_a": "543140016",
+      "raw_mpn_b": "543140020",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 162,
+      "product_b_idx": 163,
+      "raw_mpn_a": "543142016",
+      "raw_mpn_b": "543142020",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 164,
+      "product_b_idx": 165,
+      "raw_mpn_a": "543144016",
+      "raw_mpn_b": "543144020",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 166,
+      "product_b_idx": 167,
+      "raw_mpn_a": "543143016",
+      "raw_mpn_b": "543143020",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 168,
+      "product_b_idx": 169,
+      "raw_mpn_a": "543141016",
+      "raw_mpn_b": "543141020",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 170,
+      "product_b_idx": 171,
+      "raw_mpn_a": "543140412",
+      "raw_mpn_b": "543140416",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 170,
+      "product_b_idx": 172,
+      "raw_mpn_a": "543140412",
+      "raw_mpn_b": "543140420",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 173,
+      "product_b_idx": 174,
+      "raw_mpn_a": "543142412",
+      "raw_mpn_b": "543142416",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 173,
+      "product_b_idx": 175,
+      "raw_mpn_a": "543142412",
+      "raw_mpn_b": "543142420",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 176,
+      "product_b_idx": 177,
+      "raw_mpn_a": "543144412",
+      "raw_mpn_b": "543144416",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 176,
+      "product_b_idx": 178,
+      "raw_mpn_a": "543144412",
+      "raw_mpn_b": "543144420",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 179,
+      "product_b_idx": 180,
+      "raw_mpn_a": "543143412",
+      "raw_mpn_b": "543143416",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 179,
+      "product_b_idx": 181,
+      "raw_mpn_a": "543143412",
+      "raw_mpn_b": "543143420",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 182,
+      "product_b_idx": 183,
+      "raw_mpn_a": "543141412",
+      "raw_mpn_b": "543141416",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 182,
+      "product_b_idx": 184,
+      "raw_mpn_a": "543141412",
+      "raw_mpn_b": "543141420",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 185,
+      "product_b_idx": 186,
+      "raw_mpn_a": "1513703",
+      "raw_mpn_b": "1513704",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 187,
+      "product_b_idx": 188,
+      "raw_mpn_a": "1513705",
+      "raw_mpn_b": "1513706",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 187,
+      "product_b_idx": 189,
+      "raw_mpn_a": "1513705",
+      "raw_mpn_b": "1513707",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 190,
+      "product_b_idx": 191,
+      "raw_mpn_a": "1513708",
+      "raw_mpn_b": "1513709",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 192,
+      "product_b_idx": 193,
+      "raw_mpn_a": "1513710",
+      "raw_mpn_b": "1513711",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 192,
+      "product_b_idx": 194,
+      "raw_mpn_a": "1513710",
+      "raw_mpn_b": "1513712",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 195,
+      "product_b_idx": 196,
+      "raw_mpn_a": "1513717",
+      "raw_mpn_b": "1513718",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 197,
+      "product_b_idx": 198,
+      "raw_mpn_a": "1513719",
+      "raw_mpn_b": "1513720",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 197,
+      "product_b_idx": 199,
+      "raw_mpn_a": "1513719",
+      "raw_mpn_b": "1513721",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 200,
+      "product_b_idx": 201,
+      "raw_mpn_a": "1513724",
+      "raw_mpn_b": "1513725",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 202,
+      "product_b_idx": 203,
+      "raw_mpn_a": "1513726",
+      "raw_mpn_b": "1513727",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 202,
+      "product_b_idx": 204,
+      "raw_mpn_a": "1513726",
+      "raw_mpn_b": "1513728",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 205,
+      "product_b_idx": 206,
+      "raw_mpn_a": "543076016",
+      "raw_mpn_b": "543076020",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 207,
+      "product_b_idx": 208,
+      "raw_mpn_a": "543076412",
+      "raw_mpn_b": "543076416",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 207,
+      "product_b_idx": 209,
+      "raw_mpn_a": "543076412",
+      "raw_mpn_b": "543076420",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 210,
+      "product_b_idx": 211,
+      "raw_mpn_a": "1516870",
+      "raw_mpn_b": "1516871",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 212,
+      "product_b_idx": 213,
+      "raw_mpn_a": "1516872",
+      "raw_mpn_b": "1516873",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 212,
+      "product_b_idx": 214,
+      "raw_mpn_a": "1516872",
+      "raw_mpn_b": "1516874",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 215,
+      "product_b_idx": 216,
+      "raw_mpn_a": "1516879",
+      "raw_mpn_b": "1516880",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 217,
+      "product_b_idx": 218,
+      "raw_mpn_a": "1516881",
+      "raw_mpn_b": "1516882",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 217,
+      "product_b_idx": 219,
+      "raw_mpn_a": "1516881",
+      "raw_mpn_b": "1516883",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 220,
+      "product_b_idx": 221,
+      "raw_mpn_a": "543005016",
+      "raw_mpn_b": "543005020",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 222,
+      "product_b_idx": 223,
+      "raw_mpn_a": "543005412",
+      "raw_mpn_b": "543005416",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 222,
+      "product_b_idx": 224,
+      "raw_mpn_a": "543005412",
+      "raw_mpn_b": "543005420",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 225,
+      "product_b_idx": 226,
+      "raw_mpn_a": "1516891",
+      "raw_mpn_b": "1516892",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 227,
+      "product_b_idx": 228,
+      "raw_mpn_a": "1516893",
+      "raw_mpn_b": "1516894",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 227,
+      "product_b_idx": 229,
+      "raw_mpn_a": "1516893",
+      "raw_mpn_b": "1516895",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 230,
+      "product_b_idx": 231,
+      "raw_mpn_a": "543007016",
+      "raw_mpn_b": "543007020",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 232,
+      "product_b_idx": 233,
+      "raw_mpn_a": "543007412",
+      "raw_mpn_b": "543007416",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 232,
+      "product_b_idx": 234,
+      "raw_mpn_a": "543007412",
+      "raw_mpn_b": "543007420",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 241,
+      "product_b_idx": 243,
+      "raw_mpn_a": "1508395",
+      "raw_mpn_b": "ADCR5117512BS",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) suggests variants under the same product family.",
+      "confidence": 0.8
+    },
+    {
+      "product_a_idx": 242,
+      "product_b_idx": 244,
+      "raw_mpn_a": "1508396",
+      "raw_mpn_b": "ADCR5117512SG",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) suggests variants under the same product family.",
+      "confidence": 0.8
+    },
+    {
+      "product_a_idx": 245,
+      "product_b_idx": 248,
+      "raw_mpn_a": "543140908",
+      "raw_mpn_b": "543140912",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 253,
+      "product_b_idx": 254,
+      "raw_mpn_a": "1513722",
+      "raw_mpn_b": "1513723",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 255,
+      "product_b_idx": 256,
+      "raw_mpn_a": "1513729",
+      "raw_mpn_b": "1513730",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 257,
+      "product_b_idx": 259,
+      "raw_mpn_a": "543076916",
+      "raw_mpn_b": "543076936",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 258,
+      "product_b_idx": 260,
+      "raw_mpn_a": "1516876",
+      "raw_mpn_b": "1516878",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 261,
+      "product_b_idx": 262,
+      "raw_mpn_a": "1516884",
+      "raw_mpn_b": "1516885",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 263,
+      "product_b_idx": 266,
+      "raw_mpn_a": "543005916",
+      "raw_mpn_b": "543005936",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 264,
+      "product_b_idx": 267,
+      "raw_mpn_a": "1516902",
+      "raw_mpn_b": "1516905",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 265,
+      "product_b_idx": 268,
+      "raw_mpn_a": "543007916",
+      "raw_mpn_b": "543007936",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 269,
+      "product_b_idx": 271,
+      "raw_mpn_a": "543144908",
+      "raw_mpn_b": "543144912",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 270,
+      "product_b_idx": 272,
+      "raw_mpn_a": "543141908",
+      "raw_mpn_b": "543141912",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 251,
+      "product_b_idx": 273,
+      "raw_mpn_a": "1513715",
+      "raw_mpn_b": "1513713",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 252,
+      "product_b_idx": 274,
+      "raw_mpn_a": "1513716",
+      "raw_mpn_b": "1513714",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 276,
+      "product_b_idx": 278,
+      "raw_mpn_a": "73018131",
+      "raw_mpn_b": "73018066",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (95%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 285,
+      "product_b_idx": 286,
+      "raw_mpn_a": "543340896",
+      "raw_mpn_b": "543340898",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 288,
+      "product_b_idx": 289,
+      "raw_mpn_a": "543302127",
+      "raw_mpn_b": "543302147",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 290,
+      "product_b_idx": 291,
+      "raw_mpn_a": "73019599",
+      "raw_mpn_b": "73019648",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 104,
+      "product_b_idx": 292,
+      "raw_mpn_a": "73019602",
+      "raw_mpn_b": "73019598",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (97%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 104,
+      "product_b_idx": 293,
+      "raw_mpn_a": "73019602",
+      "raw_mpn_b": "73019647",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (95%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 294,
+      "product_b_idx": 295,
+      "raw_mpn_a": "543300257",
+      "raw_mpn_b": "543300277",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 299,
+      "product_b_idx": 300,
+      "raw_mpn_a": "1517602",
+      "raw_mpn_b": "1517603",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 301,
+      "product_b_idx": 302,
+      "raw_mpn_a": "1517604",
+      "raw_mpn_b": "1517605",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 303,
+      "product_b_idx": 304,
+      "raw_mpn_a": "FS C01 2004S",
+      "raw_mpn_b": "FS C04 2004S",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (95%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 303,
+      "product_b_idx": 305,
+      "raw_mpn_a": "FS C01 2004S",
+      "raw_mpn_b": "FS C06 2004S",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (95%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 306,
+      "product_b_idx": 307,
+      "raw_mpn_a": "1501831",
+      "raw_mpn_b": "1501832",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 314,
+      "product_b_idx": 315,
+      "raw_mpn_a": "1513577",
+      "raw_mpn_b": "1513578",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 314,
+      "product_b_idx": 316,
+      "raw_mpn_a": "1513577",
+      "raw_mpn_b": "1513579",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 315,
+      "product_b_idx": 317,
+      "raw_mpn_a": "1513578",
+      "raw_mpn_b": "1513580",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 319,
+      "product_b_idx": 320,
+      "raw_mpn_a": "PP-8BL",
+      "raw_mpn_b": "PP-10BL",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (95%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 319,
+      "product_b_idx": 321,
+      "raw_mpn_a": "PP-8BL",
+      "raw_mpn_b": "PP-12BL",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (95%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 322,
+      "product_b_idx": 323,
+      "raw_mpn_a": "PP-8CH",
+      "raw_mpn_b": "PP-10CH",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 322,
+      "product_b_idx": 324,
+      "raw_mpn_a": "PP-8CH",
+      "raw_mpn_b": "PP-12CH",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 325,
+      "product_b_idx": 326,
+      "raw_mpn_a": "PP-8WH",
+      "raw_mpn_b": "PP-10WH",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (95%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 339,
+      "product_b_idx": 340,
+      "raw_mpn_a": "1506969",
+      "raw_mpn_b": "1514681",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 339,
+      "product_b_idx": 341,
+      "raw_mpn_a": "1506969",
+      "raw_mpn_b": "1514726",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 349,
+      "product_b_idx": 351,
+      "raw_mpn_a": "A410RCAR",
+      "raw_mpn_b": "52C3-5/8-UPC",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (100%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 349,
+      "product_b_idx": 352,
+      "raw_mpn_a": "A410RCAR",
+      "raw_mpn_b": "52C14-5/8-UPC",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (100%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 349,
+      "product_b_idx": 353,
+      "raw_mpn_a": "A410RCAR",
+      "raw_mpn_b": "52C3-UPC",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (100%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 354,
+      "product_b_idx": 356,
+      "raw_mpn_a": "54151-F-UPC",
+      "raw_mpn_b": "54151-JR-UPC",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 371,
+      "product_b_idx": 375,
+      "raw_mpn_a": "45573BK",
+      "raw_mpn_b": "45973BK",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 376,
+      "product_b_idx": 379,
+      "raw_mpn_a": "55155BK",
+      "raw_mpn_b": "55185BK",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 381,
+      "product_b_idx": 383,
+      "raw_mpn_a": "55210NI",
+      "raw_mpn_b": "55211NI",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 381,
+      "product_b_idx": 384,
+      "raw_mpn_a": "55210NI",
+      "raw_mpn_b": "55212NI",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 392,
+      "product_b_idx": 393,
+      "raw_mpn_a": "34686A",
+      "raw_mpn_b": "34687A",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 392,
+      "product_b_idx": 394,
+      "raw_mpn_a": "34686A",
+      "raw_mpn_b": "34688A",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 416,
+      "product_b_idx": 417,
+      "raw_mpn_a": "42199BK",
+      "raw_mpn_b": "42199BKCS",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 418,
+      "product_b_idx": 419,
+      "raw_mpn_a": "42200BK",
+      "raw_mpn_b": "42200BKCS",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 420,
+      "product_b_idx": 421,
+      "raw_mpn_a": "43851BK",
+      "raw_mpn_b": "43852BK",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 420,
+      "product_b_idx": 422,
+      "raw_mpn_a": "43851BK",
+      "raw_mpn_b": "43853BK",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 410,
+      "product_b_idx": 424,
+      "raw_mpn_a": "43913BK",
+      "raw_mpn_b": "43911BK",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 460,
+      "product_b_idx": 461,
+      "raw_mpn_a": "S3702",
+      "raw_mpn_b": "S3703",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 465,
+      "product_b_idx": 466,
+      "raw_mpn_a": "S3794",
+      "raw_mpn_b": "S3795",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 544,
+      "product_b_idx": 545,
+      "raw_mpn_a": "573394",
+      "raw_mpn_b": "573329",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 579,
+      "product_b_idx": 580,
+      "raw_mpn_a": "59061BSL",
+      "raw_mpn_b": "59062BSL",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 593,
+      "product_b_idx": 596,
+      "raw_mpn_a": "12-4 SO",
+      "raw_mpn_b": "10-4 SO",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 598,
+      "product_b_idx": 599,
+      "raw_mpn_a": "2/2/4 UD ALUM",
+      "raw_mpn_b": "55418901",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 604,
+      "product_b_idx": 606,
+      "raw_mpn_a": "R92-GFWT1-0KW",
+      "raw_mpn_b": "R62-GFTA1-0KW",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 669,
+      "product_b_idx": 670,
+      "raw_mpn_a": "EUF17CDBW",
+      "raw_mpn_b": "EUF21CDBW",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (95%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 694,
+      "product_b_idx": 695,
+      "raw_mpn_a": "173950TBK",
+      "raw_mpn_b": "173951TBK",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (100%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 695,
+      "product_b_idx": 696,
+      "raw_mpn_a": "173951TBK",
+      "raw_mpn_b": "173952TBK",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 700,
+      "product_b_idx": 701,
+      "raw_mpn_a": "48-22-3302",
+      "raw_mpn_b": "48-22-3303",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 706,
+      "product_b_idx": 707,
+      "raw_mpn_a": "KB121VS",
+      "raw_mpn_b": "KB126VS",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (98%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 708,
+      "product_b_idx": 709,
+      "raw_mpn_a": "TC121VS",
+      "raw_mpn_b": "TC126VS",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (98%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 712,
+      "product_b_idx": 713,
+      "raw_mpn_a": "FE-EFX-6L",
+      "raw_mpn_b": "FE-EFX-9L",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (97%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 716,
+      "product_b_idx": 717,
+      "raw_mpn_a": "M701B-21L",
+      "raw_mpn_b": "M701B-21M",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 716,
+      "product_b_idx": 718,
+      "raw_mpn_a": "M701B-21L",
+      "raw_mpn_b": "M701B-21S",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 716,
+      "product_b_idx": 719,
+      "raw_mpn_a": "M701B-21L",
+      "raw_mpn_b": "M701B-21XL",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 720,
+      "product_b_idx": 721,
+      "raw_mpn_a": "MWUG42010124",
+      "raw_mpn_b": "MWUG42010224",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 721,
+      "product_b_idx": 722,
+      "raw_mpn_a": "MWUG42010224",
+      "raw_mpn_b": "MWUG42010324",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 720,
+      "product_b_idx": 724,
+      "raw_mpn_a": "MWUG42010124",
+      "raw_mpn_b": "MWUG42010524",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 720,
+      "product_b_idx": 725,
+      "raw_mpn_a": "MWUG42010124",
+      "raw_mpn_b": "MWUG42010624",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 732,
+      "product_b_idx": 733,
+      "raw_mpn_a": "F200B-21L",
+      "raw_mpn_b": "F200B-21M",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 734,
+      "product_b_idx": 735,
+      "raw_mpn_a": "M200B-21L",
+      "raw_mpn_b": "M200B-21M",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 734,
+      "product_b_idx": 736,
+      "raw_mpn_a": "M200B-21L",
+      "raw_mpn_b": "M200B-21XL",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 737,
+      "product_b_idx": 738,
+      "raw_mpn_a": "M200G-21L",
+      "raw_mpn_b": "M200G-21M",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 737,
+      "product_b_idx": 739,
+      "raw_mpn_a": "M200G-21L",
+      "raw_mpn_b": "M200G-21XL",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (98%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 768,
+      "product_b_idx": 769,
+      "raw_mpn_a": "6008",
+      "raw_mpn_b": "6009",
+      "status": "LIKELY_DUPLICATE",
+      "reasoning": "High description similarity (96%) suggests potential duplicates despite different MPNs.",
+      "confidence": 0.7
+    },
+    {
+      "product_a_idx": 778,
+      "product_b_idx": 779,
+      "raw_mpn_a": "DWHT10993",
+      "raw_mpn_b": "DWHT10994",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 782,
+      "product_b_idx": 783,
+      "raw_mpn_a": "AVM6EV",
+      "raw_mpn_b": "AVM6EV",
+      "status": "EXACT_DUPLICATE",
+      "reasoning": "Identical MPN, Brand, and Manufacturer.",
+      "confidence": 1.0
+    },
+    {
+      "product_a_idx": 784,
+      "product_b_idx": 786,
+      "raw_mpn_a": "DSA0250B",
+      "raw_mpn_b": "DSA0500B",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 805,
+      "product_b_idx": 806,
+      "raw_mpn_a": "3033-20",
+      "raw_mpn_b": "3033-21",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 816,
+      "product_b_idx": 817,
+      "raw_mpn_a": "2909-20",
+      "raw_mpn_b": "2909-21",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (95%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 833,
+      "product_b_idx": 835,
+      "raw_mpn_a": "DPH12B",
+      "raw_mpn_b": "DPH21B",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 834,
+      "product_b_idx": 837,
+      "raw_mpn_a": "DPH135B",
+      "raw_mpn_b": "DPH235B",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 834,
+      "product_b_idx": 842,
+      "raw_mpn_a": "DPH135B",
+      "raw_mpn_b": "DPH335B",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 892,
+      "product_b_idx": 893,
+      "raw_mpn_a": "577728",
+      "raw_mpn_b": "577738",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (96%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 962,
+      "product_b_idx": 963,
+      "raw_mpn_a": "DCB2108",
+      "raw_mpn_b": "DCB2108-2",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (100%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    },
+    {
+      "product_a_idx": 960,
+      "product_b_idx": 968,
+      "raw_mpn_a": "BL1850BDC1",
+      "raw_mpn_b": "BL1850BDC2X1",
+      "status": "LIKELY_VARIANT",
+      "reasoning": "High description similarity (97%) and same brand, but differing MPN suggests size/pack variant.",
+      "confidence": 0.85
+    }
+  ]
+}

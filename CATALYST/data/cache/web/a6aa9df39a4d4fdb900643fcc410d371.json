@@ -1,0 +1,8 @@
+{
+  "url": "https://www.3m.com/documents/3mabr-7100075678-datasheet.pdf",
+  "http_status": 200,
+  "content": "\n            <html>\n            <head><title>3M 775L Stikit Film Disc P150 Specs</title></head>\n            <body>\n              <h1>3M 775L Stikit Film Disc - Cubitron II</h1>\n              <table>\n                <tr><td>Grit</td><td>P150</td></tr>\n                <tr><td>Diameter</td><td>5 in</td></tr>\n                <tr><td>Brand</td><td>3M</td></tr>\n                <tr><td>Technology</td><td>Cubitron II</td></tr>\n                <tr><td>Packaging Qty</td><td>50 Disc/Box</td></tr>\n                <tr><td>Material</td><td>Precision Shaped Ceramic</td></tr>\n              </table>\n            </body>\n            </html>\n            ",
+  "retrieved_at": "2026-08-23T09:27:21Z",
+  "content_hash": "dadfd2fa054b2de5dc661ee7aa69686f",
+  "extraction_status": "SUCCESS"
+}

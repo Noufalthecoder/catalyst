@@ -1,0 +1,8 @@
+{
+  "url": "https://www.kregtool.com/products/crgr401a",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: crgr401a</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:21:11Z",
+  "content_hash": "c7189ac1a70bb982733e050d7d6b5800",
+  "extraction_status": "SUCCESS"
+}

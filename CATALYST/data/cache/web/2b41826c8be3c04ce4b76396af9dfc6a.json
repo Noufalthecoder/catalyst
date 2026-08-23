@@ -1,0 +1,8 @@
+{
+  "url": "https://www.speedqueen.com/documents/73019599-datasheet.pdf",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 73019599-datasheet.pdf</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T09:56:45Z",
+  "content_hash": "46f1d49838ddb3d2f7f53bf1514b0080",
+  "extraction_status": "SUCCESS"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www.distributor-direct.com/item/dc5004wg",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: dc5004wg</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T09:47:27Z",
+  "content_hash": "4282d0d435e1fb1d8239f3d1a64c764f",
+  "extraction_status": "SUCCESS"
+}

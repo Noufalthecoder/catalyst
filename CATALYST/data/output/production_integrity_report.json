@@ -1,0 +1,336 @@
+{
+  "total_products": 1000,
+  "quality_metrics": {
+    "mean": 0.65,
+    "median": 0.84,
+    "minimum": 0.1,
+    "maximum": 0.92,
+    "distribution": {
+      "0.00-0.19": 247,
+      "0.20-0.39": 0,
+      "0.40-0.59": 45,
+      "0.60-0.79": 0,
+      "0.80-1.00": 708
+    }
+  },
+  "source_metrics": {
+    "at_least_one_source": 753,
+    "official_source": 753,
+    "exact_mpn_source": 747,
+    "only_secondary_source": 0,
+    "no_source": 247
+  },
+  "attribute_metrics": {
+    "expected": 5000,
+    "verified": 481,
+    "probable": 0,
+    "invalid": 565,
+    "unknown": 3954,
+    "not_applicable": 0,
+    "conflicted": 0
+  },
+  "representatives": [
+    {
+      "group": "HIGH",
+      "mpn": "DCB518ASTS06G",
+      "brand": "Diablo",
+      "manufacturer": "Freud Inc",
+      "product_type": "Sanding Product",
+      "taxonomy": "Building Materials > Abrasives > Sanding Products",
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 2,
+      "quality_score": 0.92,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "HIGH",
+      "mpn": "3MABR-7100075678",
+      "brand": "3M",
+      "manufacturer": "Jam Industrial Supply LLC",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.88,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "HIGH",
+      "mpn": "3MABR-7100045865",
+      "brand": "3M",
+      "manufacturer": "Jam Industrial Supply LLC",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.88,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "HIGH",
+      "mpn": "3MABR-7100048736",
+      "brand": "3M",
+      "manufacturer": "Jam Industrial Supply LLC",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.88,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "HIGH",
+      "mpn": "3MABR-7100075690",
+      "brand": "3M",
+      "manufacturer": "Jam Industrial Supply LLC",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.88,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "MEDIUM",
+      "mpn": "73272TBK",
+      "brand": "DSI Westbury",
+      "manufacturer": "Palmer Donavin Mfg Company",
+      "product_type": "Post Accessory",
+      "taxonomy": "Building Materials > Decking & Railing > Post Accessories",
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.48,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "MEDIUM",
+      "mpn": "27233",
+      "brand": "AJM",
+      "manufacturer": "A J Manufacturing Inc",
+      "product_type": "Door / Window / Skylight",
+      "taxonomy": "Building Materials > Doors & Windows > Doors & Windows",
+      "sources_count": 3,
+      "verified_count": 0,
+      "invalid_count": 1,
+      "quality_score": 0.44,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "MEDIUM",
+      "mpn": "1517602",
+      "brand": "United Window & Door",
+      "manufacturer": "United Window & Door Manufacturing",
+      "product_type": "Door / Window / Skylight",
+      "taxonomy": "Building Materials > Doors & Windows > Doors & Windows",
+      "sources_count": 3,
+      "verified_count": 0,
+      "invalid_count": 1,
+      "quality_score": 0.44,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "MEDIUM",
+      "mpn": "1517603",
+      "brand": "United Window & Door",
+      "manufacturer": "United Window & Door Manufacturing",
+      "product_type": "Door / Window / Skylight",
+      "taxonomy": "Building Materials > Doors & Windows > Doors & Windows",
+      "sources_count": 3,
+      "verified_count": 0,
+      "invalid_count": 1,
+      "quality_score": 0.44,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "MEDIUM",
+      "mpn": "1517604",
+      "brand": "United Window & Door",
+      "manufacturer": "United Window & Door Manufacturing",
+      "product_type": "Door / Window / Skylight",
+      "taxonomy": "Building Materials > Doors & Windows > Doors & Windows",
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.48,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "LOW",
+      "mpn": "5B-332-080",
+      "brand": null,
+      "manufacturer": "Mirka Abrasives Inc",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 0,
+      "verified_count": 0,
+      "invalid_count": 0,
+      "quality_score": 0.1,
+      "review_reasons": [
+        "LOW_QUALITY"
+      ]
+    },
+    {
+      "group": "LOW",
+      "mpn": "5B-332-120",
+      "brand": null,
+      "manufacturer": "Mirka Abrasives Inc",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 0,
+      "verified_count": 0,
+      "invalid_count": 0,
+      "quality_score": 0.1,
+      "review_reasons": [
+        "LOW_QUALITY"
+      ]
+    },
+    {
+      "group": "LOW",
+      "mpn": "9A-570-240",
+      "brand": null,
+      "manufacturer": "Mirka Abrasives Inc",
+      "product_type": "Sanding Product",
+      "taxonomy": "Building Materials > Abrasives > Sanding Products",
+      "sources_count": 0,
+      "verified_count": 0,
+      "invalid_count": 1,
+      "quality_score": 0.14,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT",
+        "LOW_QUALITY"
+      ]
+    },
+    {
+      "group": "LOW",
+      "mpn": "9A-570-320",
+      "brand": null,
+      "manufacturer": "Mirka Abrasives Inc",
+      "product_type": "Sanding Product",
+      "taxonomy": "Building Materials > Abrasives > Sanding Products",
+      "sources_count": 0,
+      "verified_count": 0,
+      "invalid_count": 1,
+      "quality_score": 0.14,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT",
+        "LOW_QUALITY"
+      ]
+    },
+    {
+      "group": "LOW",
+      "mpn": "ASH-40-40-04",
+      "brand": null,
+      "manufacturer": "Emseal Joint Systems Ltd",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 0,
+      "verified_count": 0,
+      "invalid_count": 0,
+      "quality_score": 0.1,
+      "review_reasons": [
+        "LOW_QUALITY"
+      ]
+    },
+    {
+      "group": "FLAGGED",
+      "mpn": "DCB518ASTS06G",
+      "brand": "Diablo",
+      "manufacturer": "Freud Inc",
+      "product_type": "Sanding Product",
+      "taxonomy": "Building Materials > Abrasives > Sanding Products",
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 2,
+      "quality_score": 0.92,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "FLAGGED",
+      "mpn": "3MABR-7100075678",
+      "brand": "3M",
+      "manufacturer": "Jam Industrial Supply LLC",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.88,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "FLAGGED",
+      "mpn": "3MABR-7100045865",
+      "brand": "3M",
+      "manufacturer": "Jam Industrial Supply LLC",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.88,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "FLAGGED",
+      "mpn": "3MABR-7100048736",
+      "brand": "3M",
+      "manufacturer": "Jam Industrial Supply LLC",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.88,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    },
+    {
+      "group": "FLAGGED",
+      "mpn": "3MABR-7100075690",
+      "brand": "3M",
+      "manufacturer": "Jam Industrial Supply LLC",
+      "product_type": "UNKNOWN",
+      "taxonomy": null,
+      "sources_count": 3,
+      "verified_count": 1,
+      "invalid_count": 1,
+      "quality_score": 0.88,
+      "review_reasons": [
+        "INVALID_ATTRIBUTE_FORMAT"
+      ]
+    }
+  ]
+}

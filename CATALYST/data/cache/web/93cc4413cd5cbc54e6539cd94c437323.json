@@ -1,0 +1,8 @@
+{
+  "url": "https://www.distributor-direct.com/item/52678bk",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 52678bk</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:00:45Z",
+  "content_hash": "8138b12598f9b1a2e08db59f8b768a3a",
+  "extraction_status": "SUCCESS"
+}

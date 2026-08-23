@@ -1,0 +1,8 @@
+{
+  "url": "https://www.trex.com/products/1513723",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 1513723</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T09:55:26Z",
+  "content_hash": "4d0c88cd37b78fa6e32da74ce82a1095",
+  "extraction_status": "SUCCESS"
+}

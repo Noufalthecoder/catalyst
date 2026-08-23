@@ -1,0 +1,8 @@
+{
+  "url": "https://www.kregtool.com/products/kptdr050a",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: kptdr050a</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:14:23Z",
+  "content_hash": "d3ea2bb15ea6dadcd05d3e4add0febcf",
+  "extraction_status": "SUCCESS"
+}

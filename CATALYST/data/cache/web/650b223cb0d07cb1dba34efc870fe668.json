@@ -1,0 +1,8 @@
+{
+  "url": "https://www.festoolusa.com/products/578811",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 578811</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:18:43Z",
+  "content_hash": "dc6458a5807dcf1377b2defe2fe937cc",
+  "extraction_status": "SUCCESS"
+}

@@ -1,0 +1,11 @@
+{
+  "total_products": 1000,
+  "identity_preservation_rate": 74.9,
+  "taxonomy_assignment_rate": 59.2,
+  "source_coverage_rate": 75.3,
+  "attribute_fill_rate": 20.92,
+  "invalid_attribute_rate": 11.3,
+  "conflict_rate": 0.0,
+  "content_coverage_rate": 100.0,
+  "average_product_quality_score": 0.63
+}

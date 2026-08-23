@@ -1,0 +1,8 @@
+{
+  "url": "https://www.milwaukeetool.com/documents/48-22-8397r-datasheet.pdf",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 48-22-8397r-datasheet.pdf</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:10:40Z",
+  "content_hash": "db1c350df40d5403d14841d07cb33b4e",
+  "extraction_status": "SUCCESS"
+}

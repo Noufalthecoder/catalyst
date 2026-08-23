@@ -1,0 +1,8 @@
+{
+  "url": "https://www.distributor-direct.com/item/54171-r-upc",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 54171-r-upc</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T09:58:47Z",
+  "content_hash": "46b53de8f5bb7f7a916f9a82b227b8eb",
+  "extraction_status": "SUCCESS"
+}

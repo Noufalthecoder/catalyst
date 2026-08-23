@@ -1,0 +1,58 @@
+{
+  "total_products": 20,
+  "total_attributes": 100,
+  "total_unknowns": 88,
+  "unknown_percentage": 88.0,
+  "attributes": [
+    {
+      "attribute": "Voltage",
+      "count": 20,
+      "percentage": 100.0,
+      "likely_cause": "SOURCE_MISSING_ATTRIBUTE",
+      "causes_breakdown": {
+        "SOURCE_MISSING_ATTRIBUTE": 16,
+        "SOURCE_NOT_FOUND": 4
+      }
+    },
+    {
+      "attribute": "Color",
+      "count": 20,
+      "percentage": 100.0,
+      "likely_cause": "SOURCE_MISSING_ATTRIBUTE",
+      "causes_breakdown": {
+        "SOURCE_MISSING_ATTRIBUTE": 16,
+        "SOURCE_NOT_FOUND": 4
+      }
+    },
+    {
+      "attribute": "Amperage",
+      "count": 18,
+      "percentage": 90.0,
+      "likely_cause": "SOURCE_MISSING_ATTRIBUTE",
+      "causes_breakdown": {
+        "SOURCE_MISSING_ATTRIBUTE": 16,
+        "SOURCE_NOT_FOUND": 2
+      }
+    },
+    {
+      "attribute": "Material",
+      "count": 17,
+      "percentage": 85.0,
+      "likely_cause": "SOURCE_MISSING_ATTRIBUTE",
+      "causes_breakdown": {
+        "SOURCE_MISSING_ATTRIBUTE": 13,
+        "SOURCE_NOT_FOUND": 4
+      }
+    },
+    {
+      "attribute": "Pack Qty",
+      "count": 13,
+      "percentage": 65.0,
+      "likely_cause": "SOURCE_MISSING_ATTRIBUTE",
+      "causes_breakdown": {
+        "SOURCE_NOT_FOUND": 4,
+        "SOURCE_MISSING_ATTRIBUTE": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www.distributor-direct.com/item/543142020",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 543142020</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T09:50:52Z",
+  "content_hash": "a0cbac256c88f947398c8ec9ad8bf921",
+  "extraction_status": "SUCCESS"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www.makitatools.com/documents/xlt04z-datasheet.pdf",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: xlt04z-datasheet.pdf</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:17:25Z",
+  "content_hash": "c15417b4c583c3e95b6d6c7aa1063351",
+  "extraction_status": "SUCCESS"
+}

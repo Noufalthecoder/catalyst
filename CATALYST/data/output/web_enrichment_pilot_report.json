@@ -1,0 +1,13 @@
+{
+  "total_products": 20,
+  "products_with_sources": 1,
+  "products_with_official_sources": 1,
+  "products_with_exact_mpn_evidence": 1,
+  "products_without_useful_sources": 19,
+  "total_attributes": 100,
+  "attributes_enriched": 14,
+  "attributes_verified": 14,
+  "attributes_conflicted": 0,
+  "attributes_unknown": 86,
+  "average_sources_per_product": 0.1
+}

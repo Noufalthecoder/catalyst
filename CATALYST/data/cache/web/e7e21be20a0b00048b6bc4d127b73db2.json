@@ -1,0 +1,8 @@
+{
+  "url": "https://www.trex.com/documents/543340146-datasheet.pdf",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 543340146-datasheet.pdf</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T09:48:20Z",
+  "content_hash": "a9e964e68bfcefd7d30f4eeb233eec88",
+  "extraction_status": "SUCCESS"
+}

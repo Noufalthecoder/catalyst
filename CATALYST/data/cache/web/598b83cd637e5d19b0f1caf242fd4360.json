@@ -1,0 +1,8 @@
+{
+  "url": "https://www.kichler.com/products/43852bk",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 43852bk</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:01:40Z",
+  "content_hash": "b22c0712531e046c5146023b590253c1",
+  "extraction_status": "SUCCESS"
+}

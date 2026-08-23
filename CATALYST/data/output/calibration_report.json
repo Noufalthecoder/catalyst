@@ -1,0 +1,8 @@
+{
+  "products_calibrated": 50,
+  "schema_compliance": true,
+  "verified_rate": 84.0,
+  "invalid_rate": 16.0,
+  "unknown_rate": 0.0,
+  "resumability_status": "READY"
+}

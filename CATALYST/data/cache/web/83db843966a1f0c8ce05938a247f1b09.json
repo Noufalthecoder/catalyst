@@ -1,0 +1,8 @@
+{
+  "url": "https://www.distributor-direct.com/item/dph2r1b",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: dph2r1b</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:15:40Z",
+  "content_hash": "ae126c4dff19d97e127b49b2d8f526c0",
+  "extraction_status": "SUCCESS"
+}

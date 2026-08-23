@@ -1,0 +1,58 @@
+{
+  "IDENTITY": {
+    "count": 30,
+    "percentage": 3.0,
+    "average_quality_score": 0.12,
+    "minimum_quality_score": 0.1,
+    "maximum_quality_score": 0.18
+  },
+  "TAXONOMY": {
+    "count": 408,
+    "percentage": 40.8,
+    "average_quality_score": 0.68,
+    "minimum_quality_score": 0.1,
+    "maximum_quality_score": 0.88
+  },
+  "SOURCE": {
+    "count": 0,
+    "percentage": 0.0,
+    "average_quality_score": 0.0,
+    "minimum_quality_score": 0.0,
+    "maximum_quality_score": 0.0
+  },
+  "ATTRIBUTE": {
+    "count": 529,
+    "percentage": 52.9,
+    "average_quality_score": 0.82,
+    "minimum_quality_score": 0.14,
+    "maximum_quality_score": 0.92
+  },
+  "QUALITY": {
+    "count": 247,
+    "percentage": 24.7,
+    "average_quality_score": 0.11,
+    "minimum_quality_score": 0.1,
+    "maximum_quality_score": 0.18
+  },
+  "DUPLICATE": {
+    "count": 0,
+    "percentage": 0.0,
+    "average_quality_score": 0.0,
+    "minimum_quality_score": 0.0,
+    "maximum_quality_score": 0.0
+  },
+  "CONTENT": {
+    "count": 0,
+    "percentage": 0.0,
+    "average_quality_score": 0.0,
+    "minimum_quality_score": 0.0,
+    "maximum_quality_score": 0.0
+  },
+  "OTHER": {
+    "count": 0,
+    "percentage": 0.0,
+    "average_quality_score": 0.0,
+    "minimum_quality_score": 0.0,
+    "maximum_quality_score": 0.0
+  }
+}

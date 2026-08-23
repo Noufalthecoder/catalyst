@@ -1,0 +1,8 @@
+{
+  "url": "https://www.milwaukeetool.com/products/f200b-21m",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: f200b-21m</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:11:39Z",
+  "content_hash": "aaf4f397623e0934a4b26c4f91d815f0",
+  "extraction_status": "SUCCESS"
+}

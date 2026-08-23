@@ -1,0 +1,8 @@
+{
+  "url": "https://www.3m.com/products/3mabr-7100075690",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 3mabr-7100075690</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T09:27:29Z",
+  "content_hash": "1bfce3a5bd05be9967d10108eac6f635",
+  "extraction_status": "SUCCESS"
+}

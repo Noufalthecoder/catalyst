@@ -1,0 +1,12 @@
+{
+  "total_input_rows": 1000,
+  "completed": 1000,
+  "failed": 0,
+  "needs_review": 1000,
+  "schema_compliance": true,
+  "validation_error": "",
+  "web_request_count": 2000,
+  "cache_hit_rate": 100.0,
+  "processing_time": 13.21,
+  "average_time_per_product": 0.013
+}

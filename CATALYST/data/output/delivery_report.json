@@ -1,0 +1,15 @@
+{
+  "products_processed": 20,
+  "rows_exported": 20,
+  "schema_compliance": true,
+  "total_attributes": 100,
+  "attribute_coverage": 38.0,
+  "verified_attributes": 6,
+  "probable_attributes": 0,
+  "unknown_attributes": 62,
+  "invalid_attributes": 32,
+  "not_applicable_attributes": 0,
+  "source_coverage": 16,
+  "content_coverage": 20,
+  "export_failures": 0
+}

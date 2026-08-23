@@ -1,0 +1,8 @@
+{
+  "url": "https://www.diablotools.com/documents/d0860x-datasheet.pdf",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: d0860x-datasheet.pdf</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:18:53Z",
+  "content_hash": "09a78b3e72ca9c6ab05344b815b998d9",
+  "extraction_status": "SUCCESS"
+}

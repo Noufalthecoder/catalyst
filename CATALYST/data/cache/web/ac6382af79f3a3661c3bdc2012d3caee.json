@@ -1,0 +1,8 @@
+{
+  "url": "https://www.makitatools.com/products/xru23z",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: xru23z</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:13:46Z",
+  "content_hash": "a52029476fb94f9b0ae8092203458641",
+  "extraction_status": "SUCCESS"
+}

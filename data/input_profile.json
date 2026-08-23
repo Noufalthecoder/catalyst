@@ -1,0 +1,19 @@
+{
+  "total_rows": 1000,
+  "columns": [
+    "Mfg_Part_Num",
+    "Part_Desc",
+    "E1_Brand",
+    "Unilog_Brand",
+    "DIB_Brand",
+    "Part_Manuf"
+  ],
+  "null_counts": {
+    "Mfg_Part_Num": 0,
+    "Part_Desc": 0,
+    "E1_Brand": 799,
+    "Unilog_Brand": 1000,
+    "DIB_Brand": 755,
+    "Part_Manuf": 41
+  }
+}

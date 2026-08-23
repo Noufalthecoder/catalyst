@@ -1,0 +1,21 @@
+{
+  "total_products": 1000,
+  "unique_mpns": 999,
+  "duplicate_candidates": 190,
+  "duplicates": 1,
+  "possible_duplicates": 189,
+  "products_with_identified_brands": 753,
+  "products_with_identified_manufacturers": 966,
+  "products_with_detected_product_types": 671,
+  "ambiguous_identities": 30,
+  "unknown_identities": 0,
+  "confidence_distribution": {
+    "1.0": 749,
+    "0.7 - 0.9": 221,
+    "0.4 - 0.6": 30,
+    "0.1 - 0.3": 0,
+    "0.0": 0
+  },
+  "parsing_failures": 0,
+  "failures_list": []
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www.distributor-direct.com/item/49-94-0068",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: 49-94-0068</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T09:40:23Z",
+  "content_hash": "59377410c75474fdada306e08023f49e",
+  "extraction_status": "SUCCESS"
+}

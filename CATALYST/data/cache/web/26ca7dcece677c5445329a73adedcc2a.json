@@ -1,0 +1,8 @@
+{
+  "url": "https://www.dewalt.com/products/dcn930b",
+  "http_status": 200,
+  "content": "\n        <html>\n        <head><title>Technical Specifications</title></head>\n        <body>\n          <h1>Product Specifications Page</h1>\n          <p>Product Code: dcn930b</p>\n          <table>\n            <tr><td>Voltage Rating</td><td>120V</td></tr>\n            <tr><td>Material</td><td>Steel</td></tr>\n            <tr><td>Pack Qty</td><td>1</td></tr>\n          </table>\n        </body>\n        </html>\n        ",
+  "retrieved_at": "2026-08-23T10:14:41Z",
+  "content_hash": "fb6f1889e03019c5cf13c0b71a211362",
+  "extraction_status": "SUCCESS"
+}
