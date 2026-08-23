@@ -13,7 +13,8 @@ import {
   Download,
   Settings,
   Activity,
-  Terminal
+  Terminal,
+  Layers
 } from 'lucide-react';
 import { CatalystLogo } from './CatalystLogo';
 
@@ -25,6 +26,7 @@ const NAV_ITEMS = [
   { name: 'Source Intelligence', href: '/sources', icon: Globe2 },
   { name: 'Analytics & Quality', href: '/analytics', icon: BarChart3 },
   { name: 'Deliverables & Export', href: '/exports', icon: Download },
+  { name: '3D Architecture', href: '/architecture', icon: Layers },
   { name: 'Settings', href: '/settings', icon: Settings },
 ];
 
